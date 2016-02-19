@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {SinaeRrOr, [30373376,168800201},--Sudo users
+    sudo_users = {30373376,168800201},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
